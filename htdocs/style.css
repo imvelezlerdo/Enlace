@@ -1,0 +1,276 @@
+.div-logo {
+    width: 10%;
+}
+
+.div-logo img{
+    width: 100%;
+}
+
+.div-logo a img{
+    width: 100%;
+}
+
+.div-perfil {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.div-perfil a {
+    font-size: larger;
+}
+
+.nav-element {
+    width: 24.5%;
+    display: inline-block;
+    position: relative;
+    height: 100%;
+}
+
+.a-buscar {
+    width: 40px;
+}
+
+.img-buscar {
+    width: 100%;
+}
+
+.nav-element a {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: larger;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+nav {
+    background-color: black;
+    height: 50px;
+}
+
+.div-post img {
+    width: 50%;
+}
+
+.div-publicacion {
+    position: relative;
+    border-style: solid;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.div-chat {
+    position: absolute;
+    height: 100%;
+    left: 50%;
+    right: 0;
+}
+
+.div-chat form{
+    position: absolute;
+    bottom: 10px;
+}
+
+.div-chat2 {
+    height: 500px;
+}
+
+.div-post {
+    width: 48%;
+}
+
+.div-publicacion div {
+    display: inline-block;
+}
+
+.div-evento {
+    position: relative;
+    border-style: solid;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.div-detalles-evento {
+    width: 80%;
+}
+
+.div-registrar-evento {
+    position: absolute;
+    left: 90%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.div-organizacion {
+    position: relative;
+    border-style: solid;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.div-organizacion div {
+    display: inline-block;
+}
+
+.div-img-organizacion img {
+    width: 150px;
+}
+
+.div-descripcion-organizacion {
+    width: 75%;
+}
+
+.div-botones-organizacion {
+    position: absolute;
+    left: 90%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.center-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#div-sing-in form {
+    text-align: center;
+}
+
+#div-E-logo img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    width: 100px;
+    padding: 10px;
+}
+
+.div-content {
+    position: absolute;
+    left: 10%;
+    width: 80%;
+}
+
+.div-mapa {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.div-in-line form {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.div-images img {
+    display: inline-block;
+    width: 49%;
+    padding: 0.3%;
+}
+
+.div-titulo-botones {
+    position: relative;
+}
+
+.div-titulo-botones div{
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    width: 650px;
+}
+
+.div-botones-organizacion form{
+    display: inline-block;
+    padding: 2px;
+}
+
+.div-images-chat div {
+    display: inline-block;
+    width: 49%;
+}
+
+.border {
+    border-style: solid;
+}
+
+#div-search {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+#div-resultados {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+}
+
+#div-resultados div {
+    border-style: solid;
+    width: 100%;
+}
+
+#div-buscar-mapa {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#div-mapa {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+#div-profile div {
+    display: inline-block;
+}
+
+#div-profile-picture img {
+    width: 150px;
+}
+
+#div-profile-name {
+    position: absolute;
+    left: 15%;
+    top: 50%;
+    transform: translate(0%, -50%);
+}
